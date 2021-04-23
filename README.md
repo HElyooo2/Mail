@@ -2,7 +2,7 @@
  
 This application is a simple SMTP mailbox.
 
-## Instalation
+## Installation
 
 1. Open `BoiteMailSMTP.sln`
 2. VisualStudio will open
